@@ -49,9 +49,9 @@ public class PlayerController : MonoBehaviour
 
             // Set direction of sprite to movement direction
             if(movementInput.x < 0) {
-                spriteRenderer.flipX = true;
+                transform.localEulerAngles = new Vector3 (0f, 180, 0f);
             } else if (movementInput.x > 0) {
-                spriteRenderer.flipX = false;
+                transform.localEulerAngles = new Vector3 (0f, 0, 0f);
             }
         }
     }
