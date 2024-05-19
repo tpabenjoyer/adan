@@ -37,6 +37,8 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\PlayerController.cs" />
+     <Compile Include="Assets\Enemy.cs" />
+     <Compile Include="Assets\SwordAttack.cs" />
      <None Include="Assets\art\mystic_woods_free_2.2\read_me.txt" />
      <None Include="Assets\art\mystic_woods_free_2.2\sprites\characters\README.txt" />
     <Reference Include="UnityEngine">

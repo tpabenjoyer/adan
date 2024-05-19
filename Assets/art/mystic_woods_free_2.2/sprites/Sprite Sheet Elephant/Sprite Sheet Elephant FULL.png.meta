@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e28afdb41ecb1004cac1002c2a4c6653
+guid: 499512f94ab4fde499085d9c4205eff3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -141,13 +141,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: plains_0
+      name: Sprite Sheet Elephant FULL_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 176
-        width: 16
-        height: 16
+        y: 238
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,41 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 911b13fc9d6544c4fa4adf76b4864c3a
-      internalID: -2129072596
+      spriteID: a611032be31445a45a08d42b8a17c3fb
+      internalID: 1443131997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 176
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5eb4b057874e9b84b9843eb51b4f94aa
-      internalID: -1860443721
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_2
+      name: Sprite Sheet Elephant FULL_1
       rect:
         serializedVersion: 2
         x: 32
-        y: 176
-        width: 16
-        height: 16
+        y: 238
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,41 +176,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe573d1a9f236864db7342ccd5ce2251
-      internalID: -394053698
+      spriteID: 4e749d137cfdbe047aca183627050471
+      internalID: 1342822306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_3
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 176
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2316e95a387bfd847af50e2c0dc4c72a
-      internalID: 805181690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_4
+      name: Sprite Sheet Elephant FULL_2
       rect:
         serializedVersion: 2
         x: 64
-        y: 176
-        width: 16
-        height: 16
+        y: 238
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,20 +197,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e87d79a16ddba174ab83e7e4c1ead2a2
-      internalID: -231723762
+      spriteID: f52986fd8903b204a80db8d959d1276d
+      internalID: -1813618796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_5
+      name: Sprite Sheet Elephant FULL_3
       rect:
         serializedVersion: 2
-        x: 80
-        y: 176
-        width: 16
-        height: 16
+        x: 96
+        y: 238
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,20 +218,167 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 374a8c7cb1739f643b0ab48f1dd5d409
-      internalID: -1249506318
+      spriteID: 8c7e3e86ce0c64342b290ba5f207e3df
+      internalID: 900850337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_6
+      name: Sprite Sheet Elephant FULL_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 238
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c558a8717840d458ceec4f1db106c5
+      internalID: -1916944487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 238
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066184d7b7b37304e95316b907693ebe
+      internalID: 920890685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 238
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47b390969588b640aa37a2918ff0cfa
+      internalID: -351584747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 238
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8ab48a4f66f644badcdf2e1420c2f6
+      internalID: 1090619104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 238
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2501edc33a02547a68965cd7c26bc7
+      internalID: 529740207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 238
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3264883733c39b74fa4f6f96d6c4edbc
+      internalID: 892005154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 238
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d889f7857d7eee848b0b38ae43f77c67
+      internalID: 1090089842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_11
       rect:
         serializedVersion: 2
         x: 0
-        y: 160
-        width: 16
-        height: 16
+        y: 204
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,41 +386,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d718ee8ebb0409f448f8c7c35614e7c2
-      internalID: 1900239875
+      spriteID: c5e31712879e7c442984f129fb9d55c8
+      internalID: -1341004831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_7
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 160
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7046f70fc908f1e499209858183ba049
-      internalID: -1159957477
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_8
+      name: Sprite Sheet Elephant FULL_12
       rect:
         serializedVersion: 2
         x: 32
-        y: 160
-        width: 16
-        height: 16
+        y: 204
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,41 +407,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e8c5884b637e124bb424b0280955de8
-      internalID: -722319187
+      spriteID: d0e4c08bf5a742d4da9715db062f89b4
+      internalID: -1787141673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_9
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 160
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 052d8624efd75544aa8a758722312ba3
-      internalID: -1153701714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_10
+      name: Sprite Sheet Elephant FULL_13
       rect:
         serializedVersion: 2
         x: 64
-        y: 160
-        width: 16
-        height: 16
+        y: 204
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,20 +428,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f66e581f13be094ebf31ce9ff063560
-      internalID: 257929335
+      spriteID: 3a25946c56f496845b2db45a18d38d5c
+      internalID: 1215285826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_11
+      name: Sprite Sheet Elephant FULL_14
       rect:
         serializedVersion: 2
-        x: 80
-        y: 160
-        width: 16
-        height: 16
+        x: 96
+        y: 204
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,20 +449,188 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a047b7be9a1b7484ea3482d12395b36f
-      internalID: 1421315519
+      spriteID: cf24b29035a56364a850c71135eed57d
+      internalID: 1302315414
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_12
+      name: Sprite Sheet Elephant FULL_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 204
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f09e1869c9aef442ae8de27332fc098
+      internalID: -1326761241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 204
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2633f2446ea4424f80218cb8dea341d
+      internalID: 482098643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 204
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4670ebb0af6ac8143be3b8946e224056
+      internalID: 1657049095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 204
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2041fac32c8e69d41844b4039345281e
+      internalID: -1247332196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 204
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445332e5ed2e26044b8c74fc360c9ff9
+      internalID: -207663747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 204
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e1270d16299a142b799c283daede4b
+      internalID: 1551335516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 204
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8d6924506cc3f49bf77d5ee8e63025
+      internalID: -1624887400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 204
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c14fc7b7262fe49bc34123d4475717
+      internalID: -1564759081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_23
       rect:
         serializedVersion: 2
         x: 0
-        y: 144
-        width: 16
-        height: 16
+        y: 170
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -407,41 +638,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 277e9421e10e8b9489ea49b5ada18d87
-      internalID: 1404283254
+      spriteID: 60df24d1130612f47a91c6ab14c32678
+      internalID: -1092542203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_13
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 22f81fb85c8e98d4595676ccd648ab9f
-      internalID: -428987325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_14
+      name: Sprite Sheet Elephant FULL_24
       rect:
         serializedVersion: 2
         x: 32
-        y: 144
-        width: 16
-        height: 16
+        y: 170
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,41 +659,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e451eef58bfd7642b5f151566c6dee8
-      internalID: 346231185
+      spriteID: ff846cb7d22967f4f970b3bed3474099
+      internalID: 1008245560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_15
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 076750d315a756041a7602befe38fabc
-      internalID: -1793361869
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_16
+      name: Sprite Sheet Elephant FULL_25
       rect:
         serializedVersion: 2
         x: 64
-        y: 144
-        width: 16
-        height: 16
+        y: 170
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -491,20 +680,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3361b32c7d3e18489a766d6d3e3e370
-      internalID: 616992491
+      spriteID: d6c527dbd103d374d860de97a9f2af06
+      internalID: 1251397103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_17
+      name: Sprite Sheet Elephant FULL_26
       rect:
         serializedVersion: 2
-        x: 80
-        y: 144
-        width: 16
-        height: 16
+        x: 96
+        y: 170
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -512,20 +701,188 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7212e89825b00e64ba146aef322e4bb7
-      internalID: 341678597
+      spriteID: 8d40df54b8706b74bba532c6fdf16e50
+      internalID: -1322476253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_18
+      name: Sprite Sheet Elephant FULL_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 170
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5ef122dfd0b694abec152a204873e7
+      internalID: 1455894809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 170
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa1df71f86ddc647a65efaea313dbc5
+      internalID: 137387567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 170
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b8537c57f6aeb44bf0ce41d3defa67
+      internalID: -1501678526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 170
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce1269ebde892244ab27e99e6cd7bb5
+      internalID: -1994722821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 170
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c3b5c805c53314c81e47ad7a02f52e
+      internalID: 196068572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 170
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f785f7995c50949aaea9188cdfc21e
+      internalID: -1460317273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 170
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591caea34433e62439f584a6e1a722b2
+      internalID: 1978304836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 170
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c6c634254b8624f9b0c5a448465058
+      internalID: -141842647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_35
       rect:
         serializedVersion: 2
         x: 0
-        y: 128
-        width: 16
-        height: 16
+        y: 136
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -533,41 +890,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d16accf03bfc244cb668ea6dacf0535
-      internalID: 825698436
+      spriteID: 24d76a942aa2f484bb4e55ddd45cde94
+      internalID: 1280434698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_19
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2047db5c4f6a81546b89ffb4bab7ce71
-      internalID: 1035935115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_20
+      name: Sprite Sheet Elephant FULL_36
       rect:
         serializedVersion: 2
         x: 32
-        y: 128
-        width: 16
-        height: 16
+        y: 136
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -575,125 +911,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6deb548a9ba7c84c89dc8b17107e894
-      internalID: -1739245037
+      spriteID: 560d74d85f5e7d646933b1744b695a9e
+      internalID: -1344213218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_21
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f30268e56926cc44949c0ea609cdfd3
-      internalID: 1818729154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_22
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d0ab38d2e6b6f149a5043a54928e27d
-      internalID: -808430573
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_23
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f0f35c6bd07b13e4888b47a69132b117
-      internalID: 319306623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_24
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ad1bb3ca3a59324381d6333de8c17b6
-      internalID: -486793343
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_25
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f4817c3aaa4f2c489141656f85da8e5
-      internalID: 420474690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_26
+      name: Sprite Sheet Elephant FULL_37
       rect:
         serializedVersion: 2
         x: 64
-        y: 112
-        width: 16
-        height: 16
+        y: 136
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -701,20 +932,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e0fb095e14df644696c5e4ff294bb20
-      internalID: -831190101
+      spriteID: bf4ff2085e510b94dab0dd2ca239a767
+      internalID: -244176359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_27
+      name: Sprite Sheet Elephant FULL_38
       rect:
         serializedVersion: 2
-        x: 80
-        y: 112
-        width: 16
-        height: 16
+        x: 96
+        y: 136
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,20 +953,188 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fd45938203123a4ead4e3b7d38c1c11
-      internalID: 1887061868
+      spriteID: cedcd6daa87d77c499ef7d8b61ebeda5
+      internalID: -1899657555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_28
+      name: Sprite Sheet Elephant FULL_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab3b274be1768940aee5405e7d60f5e
+      internalID: -381634388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed17e7933089c3a47b3c00151583a99a
+      internalID: 819740015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 136
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f6c617c3a0ecf4dba6f1e75399b114
+      internalID: 1946547942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 136
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaa1095adeeb2440b053f93e8ee369e
+      internalID: 715241218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 136
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2829d4a82f4b0042bf0554f16a4f692
+      internalID: 275534264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 136
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11829097b3045ad48a0f12a0b87228be
+      internalID: 1322201157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 136
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8732c6cb9822945b1035dcd20318a2
+      internalID: 1563180811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 136
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6564f4d72de7fce428a182e39ae31624
+      internalID: 335852463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_47
       rect:
         serializedVersion: 2
         x: 0
-        y: 96
-        width: 16
-        height: 16
+        y: 102
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,41 +1142,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e64f9d0567fe274abd0897717437d6a
-      internalID: 952701862
+      spriteID: 6c5ba222e20b5394d894dd5daef0b615
+      internalID: 471162403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_29
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23c4ac66d09b641458db1c0b9c20e385
-      internalID: 1810908815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_30
+      name: Sprite Sheet Elephant FULL_48
       rect:
         serializedVersion: 2
         x: 32
-        y: 96
-        width: 16
-        height: 16
+        y: 102
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -785,41 +1163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28e3930b112a1634d94334044d34fa00
-      internalID: 1205451838
+      spriteID: d3a332d306e62644a809dadc724cb945
+      internalID: 409150276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_31
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 08c4e96e36864d542af16b3ce8240bd3
-      internalID: 1488607855
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_32
+      name: Sprite Sheet Elephant FULL_49
       rect:
         serializedVersion: 2
         x: 64
-        y: 96
-        width: 16
-        height: 16
+        y: 102
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -827,20 +1184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5d8468f6448041469e730e839eb26e3
-      internalID: 827516488
+      spriteID: 59ea07f78bc31954fab7e38ff00c1c3e
+      internalID: -1479694211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_33
+      name: Sprite Sheet Elephant FULL_50
       rect:
         serializedVersion: 2
-        x: 80
-        y: 96
-        width: 16
-        height: 16
+        x: 96
+        y: 102
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -848,20 +1205,188 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c5d494a5f0c8e045b32122b2c13ac7d
-      internalID: 1348216337
+      spriteID: 3bfc40040241af246b59a04dccdadb37
+      internalID: 1546376725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_34
+      name: Sprite Sheet Elephant FULL_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 102
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bf398d70617624ea5e8d38315f6bfc
+      internalID: -1919193373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 102
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c97f585d793f642aa38f3f3b9922ce
+      internalID: -1860325101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 102
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1ac4de159fba0458c635178680a12c
+      internalID: 2059768781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 102
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9342bde5bd59047a0b0d4fb52e430a
+      internalID: -207120291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 102
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6d203fca3cb9245b6c7868a1e1ac39
+      internalID: -331198432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 102
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f38c2781b6a9b4db4f8adebbbddd19
+      internalID: 780686783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 102
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f20a5f3e830fb64fa3c677161a3ae70
+      internalID: -49364480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_58
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 102
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf2913686a50064cbdb07dd9623a6fa
+      internalID: 1497672347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_59
       rect:
         serializedVersion: 2
         x: 0
-        y: 80
-        width: 16
-        height: 16
+        y: 68
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -869,41 +1394,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 157343190df97db42b3fe605dc718e76
-      internalID: 277948242
+      spriteID: bf60219df035ff84eb957dd208260bea
+      internalID: -917547786
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_35
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8960c3dbef63a604eb2d9ede3fdb5941
-      internalID: -648962429
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_36
+      name: Sprite Sheet Elephant FULL_60
       rect:
         serializedVersion: 2
         x: 32
-        y: 80
-        width: 16
-        height: 16
+        y: 68
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -911,41 +1415,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 239dafa97000a844a88406171d0ceae0
-      internalID: 1654411926
+      spriteID: 09f68b1a83319ad4380f4d5e383c0d42
+      internalID: -1193266356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_37
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a10263cbd8b248a43a5cd9bb3b86afb1
-      internalID: -32250365
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_38
+      name: Sprite Sheet Elephant FULL_61
       rect:
         serializedVersion: 2
         x: 64
-        y: 80
-        width: 16
-        height: 16
+        y: 68
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -953,20 +1436,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c124de89f25ce0b419e4e655c7875ecd
-      internalID: -1586138238
+      spriteID: 8f85bdd9f0999a7408e57f7ab58a7aa1
+      internalID: -1822271884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_39
+      name: Sprite Sheet Elephant FULL_62
       rect:
         serializedVersion: 2
-        x: 80
-        y: 80
-        width: 16
-        height: 16
+        x: 96
+        y: 68
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -974,20 +1457,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4ecf8111cc00e74f816ca482769336c
-      internalID: 1140267927
+      spriteID: 6544ce8605369944f813f2a3d0c8177c
+      internalID: -1876116888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_40
+      name: Sprite Sheet Elephant FULL_63
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 16
-        height: 16
+        x: 128
+        y: 68
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -995,20 +1478,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81d412dd2bf36c9438a95bceb708b9c4
-      internalID: -267649674
+      spriteID: b461dd38fb625fe469d3847603ca08ee
+      internalID: -43102626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_41
+      name: Sprite Sheet Elephant FULL_64
       rect:
         serializedVersion: 2
-        x: 16
-        y: 64
-        width: 16
-        height: 16
+        x: 160
+        y: 68
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1016,62 +1499,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92ea670d40c4ea0489a5fc73635e581d
-      internalID: -2018346185
+      spriteID: a26b11e7281325d4cb4a919ac57265b3
+      internalID: 25990320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_42
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e8a44c3a57b1a644bd109b3565defa9
-      internalID: 1412605475
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_43
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 18886941b08d8fa4e9f0d66a20e57901
-      internalID: -1379576174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_44
+      name: Sprite Sheet Elephant FULL_65
       rect:
         serializedVersion: 2
         x: 0
-        y: 48
-        width: 16
-        height: 16
+        y: 34
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1079,41 +1520,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68e92453a03c7cc468247db2f10ee502
-      internalID: -1055058987
+      spriteID: dee462de272b42640823427307cae7b8
+      internalID: -1885688253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_45
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 53adcf0fe01de7542b63477670b8879f
-      internalID: -1231528310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_46
+      name: Sprite Sheet Elephant FULL_66
       rect:
         serializedVersion: 2
         x: 32
-        y: 48
-        width: 16
-        height: 16
+        y: 34
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1121,41 +1541,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b3386cb2ddd89b40a64448dd6867970
-      internalID: 1787901706
+      spriteID: f51af90caf0a37c469161757ff675f23
+      internalID: -1328033576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_47
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3583e1ad7c57b6f4fa5de52ba2b5ed5e
-      internalID: 332442681
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_48
+      name: Sprite Sheet Elephant FULL_67
       rect:
         serializedVersion: 2
         x: 64
-        y: 48
-        width: 16
-        height: 16
+        y: 34
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1163,20 +1562,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d41d16c326b9c74bb6809a2b8ac74ef
-      internalID: -1020475407
+      spriteID: 65b968e63dcc84e41976c82d516c68b1
+      internalID: 767054285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_49
+      name: Sprite Sheet Elephant FULL_68
       rect:
         serializedVersion: 2
-        x: 80
-        y: 48
-        width: 16
-        height: 16
+        x: 96
+        y: 34
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1184,20 +1583,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f94c762ad06312479bdd354988bc125
-      internalID: -1309306339
+      spriteID: aae2a52fe8f10a4419ca1817484f8462
+      internalID: -1336188211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_50
+      name: Sprite Sheet Elephant FULL_69
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 16
-        height: 16
+        x: 128
+        y: 34
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1205,20 +1604,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 759b5eaabc89e7d4ea76d82f3c6d551c
-      internalID: -1211896203
+      spriteID: 8cccb0570230f1742b479c38c14c48b1
+      internalID: 188616462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_51
+      name: Sprite Sheet Elephant FULL_70
       rect:
         serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
+        x: 160
+        y: 34
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1226,230 +1625,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98806aa6e30666c44a026dcb556a9f83
-      internalID: 1967049274
+      spriteID: 2cee103361787174281cb63a19fed426
+      internalID: -388805673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_52
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf4f08d14a7f62e49a8be820a8c56398
-      internalID: 1549316084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_53
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bcb3eeb8a625b8d42ac6f1212e102f34
-      internalID: -2090958843
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_54
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c7e3311a6f6b794a8548b63fb7d6996
-      internalID: 1743722142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_55
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f8619006344b5304188e0adb5951fae2
-      internalID: 145079064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_56
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a5cdfaf6565f7944acdccf2e28a5dc9
-      internalID: 161864331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_57
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1407ab62da502b4d956797726919f8a
-      internalID: -1288277861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_58
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 013aa8e307968ed4d807405be551d8d0
-      internalID: -41185513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_59
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 57df64a748780244fa3035ceea4c7ebb
-      internalID: -1170756504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_60
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6dd983080c463a54eaf2d77b3674e0c6
-      internalID: -758453141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_61
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e1caa4c7875654a4c9b5603c4a3073f0
-      internalID: 1333357462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_62
+      name: Sprite Sheet Elephant FULL_71
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 16
-        height: 16
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1457,41 +1646,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57e6fc23982954f4981ace176652c87a
-      internalID: -246723781
+      spriteID: 2fa3fe00d4f72e1479037c1f4c9d5b8e
+      internalID: -521178088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_63
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9fca65cc5d9cb9d42909bfe7f114eb01
-      internalID: -1740644571
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_64
+      name: Sprite Sheet Elephant FULL_72
       rect:
         serializedVersion: 2
         x: 32
         y: 0
-        width: 16
-        height: 16
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1499,41 +1667,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 398a45e806047f8489d734d313e918b5
-      internalID: 344274854
+      spriteID: 217b6966118d32147adc285394084378
+      internalID: -1406625295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_65
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec4528e8ef47a204aa40f3a761a32e11
-      internalID: 1755566412
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: plains_66
+      name: Sprite Sheet Elephant FULL_73
       rect:
         serializedVersion: 2
         x: 64
         y: 0
-        width: 16
-        height: 16
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1541,20 +1688,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 748bb5d00e8985e43a67c58e69d27dac
-      internalID: 1196009338
+      spriteID: aed3c6db7ed2cfb42a454dd5b36c7143
+      internalID: -63813444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plains_67
+      name: Sprite Sheet Elephant FULL_74
       rect:
         serializedVersion: 2
-        x: 80
+        x: 96
         y: 0
-        width: 16
-        height: 16
+        width: 32.333332
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1562,8 +1709,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2795d1370889914f901772f8bc88127
-      internalID: -1312518729
+      spriteID: 2be71ce50ac9f254d98361afb103ebd8
+      internalID: 1609185960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d184750234c4ce4dba6aaac3c5c1220
+      internalID: 1651031566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Elephant FULL_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32.333332
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d657e1644ef215b4da23611f6458be50
+      internalID: 1414472850
       vertices: []
       indices: 
       edges: []
@@ -1579,74 +1768,83 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      plains_35: -648962429
-      plains_52: 1549316084
-      plains_22: -808430573
-      plains_40: -267649674
-      plains_21: 1818729154
-      plains_15: -1793361869
-      plains_61: 1333357462
-      plains_3: 805181690
-      plains_24: -486793343
-      plains_44: -1055058987
-      plains_56: 161864331
-      plains_1: -1860443721
-      plains_34: 277948242
-      plains_33: 1348216337
-      plains_19: 1035935115
-      plains_18: 825698436
-      plains_57: -1288277861
-      plains_58: -41185513
-      plains_0: -2129072596
-      plains_53: -2090958843
-      plains_48: -1020475407
-      plains_45: -1231528310
-      plains_8: -722319187
-      plains_11: 1421315519
-      plains_60: -758453141
-      plains_16: 616992491
-      plains_32: 827516488
-      plains_63: -1740644571
-      plains_14: 346231185
-      plains_49: -1309306339
-      plains_25: 420474690
-      plains_30: 1205451838
-      plains_12: 1404283254
-      plains_4: -231723762
-      plains_38: -1586138238
-      plains_55: 145079064
-      plains_27: 1887061868
-      plains_6: 1900239875
-      plains_59: -1170756504
-      plains_66: 1196009338
-      plains_9: -1153701714
-      plains_42: 1412605475
-      plains_28: 952701862
-      plains_10: 257929335
-      plains_20: -1739245037
-      plains_65: 1755566412
-      plains_5: -1249506318
-      plains_7: -1159957477
-      plains_23: 319306623
-      plains_43: -1379576174
-      plains_39: 1140267927
-      plains_47: 332442681
-      plains_51: 1967049274
-      plains_62: -246723781
-      plains_54: 1743722142
-      plains_46: 1787901706
-      plains_29: 1810908815
-      plains_64: 344274854
-      plains_17: 341678597
-      plains_13: -428987325
-      plains_31: 1488607855
-      plains_37: -32250365
-      plains_2: -394053698
-      plains_26: -831190101
-      plains_36: 1654411926
-      plains_41: -2018346185
-      plains_50: -1211896203
-      plains_67: -1312518729
+      Sprite Sheet Elephant FULL_41: 1946547942
+      Sprite Sheet Elephant FULL_45: 1563180811
+      Sprite Sheet Elephant FULL_32: -1460317273
+      Sprite Sheet Elephant FULL_63: -43102626
+      Sprite Sheet Elephant FULL_2: -1813618796
+      Sprite Sheet Elephant FULL_24: 1008245560
+      Sprite Sheet Elephant FULL_60: -1193266356
+      Sprite Sheet Elephant FULL_37: -244176359
+      Sprite Sheet Elephant FULL_47: 471162403
+      Sprite Sheet Elephant FULL_68: -1336188211
+      Sprite Sheet Elephant FULL_23: -1092542203
+      Sprite Sheet Elephant FULL_71: -521178088
+      Sprite Sheet Elephant FULL_18: -1247332196
+      Sprite Sheet Elephant FULL_62: -1876116888
+      Sprite Sheet Elephant FULL_49: -1479694211
+      Sprite Sheet Elephant FULL_56: 780686783
+      Sprite Sheet Elephant FULL_75: 1651031566
+      Sprite Sheet Elephant FULL_44: 1322201157
+      Sprite Sheet Elephant FULL_39: -381634388
+      Sprite Sheet Elephant FULL_67: 767054285
+      Sprite Sheet Elephant FULL_76: 1414472850
+      Sprite Sheet Elephant FULL_54: -207120291
+      Sprite Sheet Elephant FULL_74: 1609185960
+      Sprite Sheet Elephant FULL_20: 1551335516
+      Sprite Sheet Elephant FULL_46: 335852463
+      Sprite Sheet Elephant FULL_4: -1916944487
+      Sprite Sheet Elephant FULL_40: 819740015
+      Sprite Sheet Elephant FULL_53: 2059768781
+      Sprite Sheet Elephant FULL_29: -1501678526
+      Sprite Sheet Elephant FULL_48: 409150276
+      Sprite Sheet Elephant FULL_50: 1546376725
+      Sprite Sheet Elephant FULL_64: 25990320
+      Sprite Sheet Elephant FULL_43: 275534264
+      Sprite Sheet Elephant FULL_19: -207663747
+      Sprite Sheet Elephant FULL_36: -1344213218
+      Sprite Sheet Elephant FULL_65: -1885688253
+      Sprite Sheet Elephant FULL_27: 1455894809
+      Sprite Sheet Elephant FULL_72: -1406625295
+      Sprite Sheet Elephant FULL_61: -1822271884
+      Sprite Sheet Elephant FULL_1: 1342822306
+      Sprite Sheet Elephant FULL_30: -1994722821
+      Sprite Sheet Elephant FULL_0: 1443131997
+      Sprite Sheet Elephant FULL_42: 715241218
+      Sprite Sheet Elephant FULL_7: 1090619104
+      Sprite Sheet Elephant FULL_25: 1251397103
+      Sprite Sheet Elephant FULL_13: 1215285826
+      Sprite Sheet Elephant FULL_21: -1624887400
+      Sprite Sheet Elephant FULL_33: 1978304836
+      Sprite Sheet Elephant FULL_70: -388805673
+      Sprite Sheet Elephant FULL_73: -63813444
+      Sprite Sheet Elephant FULL_17: 1657049095
+      Sprite Sheet Elephant FULL_59: -917547786
+      Sprite Sheet Elephant FULL_9: 892005154
+      Sprite Sheet Elephant FULL_8: 529740207
+      Sprite Sheet Elephant FULL_34: -141842647
+      Sprite Sheet Elephant FULL_35: 1280434698
+      Sprite Sheet Elephant FULL_22: -1564759081
+      Sprite Sheet Elephant FULL_15: -1326761241
+      Sprite Sheet Elephant FULL_26: -1322476253
+      Sprite Sheet Elephant FULL_28: 137387567
+      Sprite Sheet Elephant FULL_57: -49364480
+      Sprite Sheet Elephant FULL_14: 1302315414
+      Sprite Sheet Elephant FULL_38: -1899657555
+      Sprite Sheet Elephant FULL_3: 900850337
+      Sprite Sheet Elephant FULL_51: -1919193373
+      Sprite Sheet Elephant FULL_12: -1787141673
+      Sprite Sheet Elephant FULL_5: 920890685
+      Sprite Sheet Elephant FULL_10: 1090089842
+      Sprite Sheet Elephant FULL_11: -1341004831
+      Sprite Sheet Elephant FULL_55: -331198432
+      Sprite Sheet Elephant FULL_58: 1497672347
+      Sprite Sheet Elephant FULL_52: -1860325101
+      Sprite Sheet Elephant FULL_69: 188616462
+      Sprite Sheet Elephant FULL_6: -351584747
+      Sprite Sheet Elephant FULL_31: 196068572
+      Sprite Sheet Elephant FULL_16: 482098643
+      Sprite Sheet Elephant FULL_66: -1328033576
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
