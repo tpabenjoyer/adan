@@ -46,6 +46,8 @@ public class Enemy : MonoBehaviour
         {
             Health -= 1;
             Destroy(other.gameObject);
+        } else if(other.tag == "Player"){
+            Destroy(other.gameObject);
         }
         
     }
