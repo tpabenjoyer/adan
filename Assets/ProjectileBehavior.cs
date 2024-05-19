@@ -12,16 +12,15 @@ public class ProjectileBehavior : MonoBehaviour
         rb.velocity = transform.right * speed;
     }
 
-    void OnColliOnsionEnter2D(Collision2D other)
-    {
-        if(other.tag == "Enemy") {
-            // Deal damage to the enemy
-            Enemy enemy = other.GetComponent<Enemy>();
+    
 
-            if(enemy != null) {
-                enemy.Health -= damage;
-            }
-        }
+   
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        Destroy(gameObject);
+    }
+
+    public void RemoveProjectile(){
         Destroy(gameObject);
     }
     

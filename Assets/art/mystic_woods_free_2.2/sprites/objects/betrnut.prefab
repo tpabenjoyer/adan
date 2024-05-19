@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 583737886100898540}
   m_Layer: 0
   m_Name: betrnut
-  m_TagString: Untagged
+  m_TagString: Projectile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -148,3 +148,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   rb: {fileID: 4992834227759728163}
+  damage: 3
